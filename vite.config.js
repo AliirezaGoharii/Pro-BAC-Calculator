@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
-  base: '/pro-bac-calculator-vue/', 
+  base: '/Pro-BAC-Calculator/', 
   plugins: [vue()],
   build: {
     rollupOptions: {
@@ -12,3 +12,4 @@ export default defineConfig({
     },
   },
 })
+
