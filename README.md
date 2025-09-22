@@ -2,6 +2,8 @@
 
 An advanced and responsive web application built with Vue.js 3 and Tailwind CSS to estimate Blood Alcohol Content (BAC). This tool provides an intuitive user interface for tracking alcohol consumption and understanding its potential effects over time.
 
+![BAC Calculator Screenshot](./assets/image.png)
+
 ### 🚀 Live Demo
 
 **[Click here to view the live project](https://aliirezagoharii.github.io/Pro-BAC-Calculator/)**
